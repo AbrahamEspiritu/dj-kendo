@@ -23,6 +23,10 @@ header.masthead>.overlay {
   background: rgba(0, 0, 0, 0.6);
 }
 
+#cal {
+  text-align:center;
+}
+
 @media (min-width: 992px) {
   header.masthead>.overlay {
     padding: 10rem 0;
